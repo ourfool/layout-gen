@@ -1,2 +1,2 @@
-# layout-gen
-Scripts for generating GDSII files
+# LayoutGen
+This repository will hold some scripts for generating GDSII files.
