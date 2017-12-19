@@ -3,9 +3,9 @@
 """Summary
 
 Attributes:
-    grid (TYPE): Description
-    layout (TYPE): Description
-    temp (int): Description
+    grid (TYPE): val for Cell
+    layout (TYPE): val for layout
+    temp (int): temp
 """
 
 import numpy as np
