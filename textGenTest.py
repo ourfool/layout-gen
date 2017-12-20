@@ -1,4 +1,11 @@
 # -*- coding: utf-8 -*-
+"""Summary
+
+Attributes:
+    cell (TYPE): val for Cell
+    layout (TYPE): val for layout
+    text (TYPE): val for lavel
+"""
 
 from gdsCAD import *
 
